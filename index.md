@@ -15,5 +15,5 @@
 
 [Here](IE582_Fall2019_Homework3.pdf) is the description and questions for the third  homework.
 
-[Here](HW3.html) is my approach for Homework 3.
+[Here](Hw3.html) is my approach for Homework 3.
 
