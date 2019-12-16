@@ -17,3 +17,9 @@
 
 [Here](Hw3.html) is my approach for Homework 3.
 
+## Homework 4
+
+[Here](IE582_Fall19_Homework4.pdf) is the description and questions for the fourth homework.
+
+[Here](HW_4_Group1.html) is my approach for Homework 4.
+
